@@ -23,6 +23,27 @@
       "coingecko_id": "sei-network"
     },
     {
+      "name": "OFFICIAL TRUMP",
+      "description": "The native token of OFFICIAL TRUMP",
+      "symbol": "TRUMP",
+      "base": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+      "display": "TRUMP",
+      "denom_units": [
+        {
+          "denom": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+          "exponent": 0
+        },
+        {
+          "denom": "TRUMP",
+          "exponent": 18
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/TRUMP_LOGO.png"
+      },
+      "type_asset": "erc20"
+    },
+    {
       "name": "GPT Wars",
       "description": "The native token of GPT Wars",
       "symbol": "GPTW",
